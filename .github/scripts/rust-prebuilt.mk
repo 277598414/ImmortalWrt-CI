@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: MIT
-# Copyright (C) 2026
+# Copyright (C) 2026 VIKINGYFY
 
 # Keep OpenWrt's normal host stamps, without source download or bootstrap.
 PKG_SOURCE:=
